@@ -1,2 +1,3 @@
-# odtuyemekhanebotu
-Telegram dan /yemek komutu ile web scraping yapan basic bot
+# odtuyemekhanebotutg
+Telegram için basic Yemekhane botu
+/yemek komutuyla webscraping te yemekleri listeler
